@@ -8,6 +8,6 @@ namespace CMSShoppingCart.Models.Data
 {
     public class Db :DbContext
     {
-
+        public DbSet<PageDTO> Pages { get; set; }
     }
 }
