@@ -1,0 +1,3 @@
+ctrl+m+o => collapse every method in file.
+
+ctrl+, => kereses a projektben file-ra.
